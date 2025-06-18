@@ -2,6 +2,4 @@
 
 ![](https://raw.githubusercontent.com/YunhaoDou/YunhaoDou/refs/heads/output/github-contribution-grid-snake.svg)
 
-[![Yunhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunhaoDou)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=YunhaoDou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
