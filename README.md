@@ -5,7 +5,7 @@
 </div>
 
 ## 🌟 About Me
-```html
+
 <!-- 3D旋转头像（需要替换图片链接） -->
 <div align="center">
   <img src="https://i.imgur.com/your-photo.jpg" width="200" height="200" style="border-radius: 50%; animation: rotate 10s linear infinite;"/>
@@ -23,3 +23,11 @@
     100% { transform: translateY(0px); }
   }
 </style>
+
+## 📊 GitHub 统计
+<!-- 动态统计卡片 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="animation: float 6s ease-in-out infinite;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical" alt="连续提交" style="animation: float 6s ease-in-out infinite; animation-delay: 2s;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="常用语言" style="animation: float 6s ease-in-out infinite; animation-delay: 4s;" />
+</div>
