@@ -16,9 +16,6 @@
 
 `Python` · `TypeScript` · `vectorbt` · `LLM integration` · `Obsidian`
 
-### Stats
-
-![Metrics](./github-metrics.svg)
 
 ### Contribution graph
 
