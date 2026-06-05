@@ -1,7 +1,5 @@
 ## Yunhao Dou
 
-Computer science master's in the UK, returning to China in mid-2026.
-Working at the edge of quantitative finance and AI tooling.
 
 ### Currently
 
@@ -14,11 +12,6 @@ Working at the edge of quantitative finance and AI tooling.
 - AI × finance: agents, content extraction, structured analysis
 - Quantitative research in Python (pandas, vectorbt, scikit-learn, akshare, yfinance)
 - Anti-noise frameworks: backtesting popular strategies to show what actually works (and what does not)
-
-### Selected projects
-
-- [Awesome-Weread](https://github.com/YunhaoDou/awesome-weread) — Curated list of WeRead official Agent Skill and ecosystem projects
-- [Awesome-List-github-stars-ranking](https://github.com/YunhaoDou/Awesome-List-github-stars-ranking) — Auto-updated top 100 GitHub repositories by star count
 
 ### Tech
 
