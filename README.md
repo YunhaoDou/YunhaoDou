@@ -10,12 +10,11 @@
 ### Focus areas
 
 - AI × finance: agents, content extraction, structured analysis
-- Quantitative research in Python (pandas, vectorbt, scikit-learn, akshare, yfinance)
 - Anti-noise frameworks: backtesting popular strategies to show what actually works (and what does not)
 
 ### Tech
 
-`Python` · `TypeScript` · `pandas` · `vectorbt` · `GitHub Actions` · `LLM integration` · `Obsidian`
+`Python` · `TypeScript` · `vectorbt` · `LLM integration` · `Obsidian`
 
 ### Stats
 
