@@ -17,7 +17,7 @@ Working at the edge of quantitative finance and AI tooling.
 
 ### Selected projects
 
-- [awesome-weread](https://github.com/YunhaoDou/awesome-weread) — Curated list of WeRead official Agent Skill and ecosystem projects
+- [Awesome-Weread](https://github.com/YunhaoDou/awesome-weread) — Curated list of WeRead official Agent Skill and ecosystem projects
 - [Awesome-List-github-stars-ranking](https://github.com/YunhaoDou/Awesome-List-github-stars-ranking) — Auto-updated top 100 GitHub repositories by star count
 
 ### Tech
